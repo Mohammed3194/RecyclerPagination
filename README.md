@@ -1,9 +1,6 @@
 # RecyclerPagination
 This repository contains example for using the RecyclerView widget found in the Android Support Library.
 
-# Description
-
-
 # Components of a RecyclerView
 A RecyclerView needs to have a layout manager and an adapter to be instantiated.
 
